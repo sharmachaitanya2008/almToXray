@@ -1,0 +1,6 @@
+ALM_Field,Xray_Field
+name,summary
+description,description
+parent-id,testRepositoryPath
+custom-automation-status,customfield_12345
+custom-priority,customfield_67890
